@@ -1,6 +1,7 @@
 
 # PreLog
 ![my machine badge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+![workflow badge](https://github.com/itisluiz/PreLog/actions/workflows/cmake-ci.yml/badge.svg)
 
 The `prelog`, as in preliminary logging, library contains the minimum foundations needed for setting up a debugging environment.
 
